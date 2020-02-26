@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">    
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    
+    <title>sauron eye</title>
+</head>
+<body>
+    <div class="container">
+            <div class="row" >
+                    <div id="noir" class="col"></div>
+                    <div id="blanc" class="col-9"></div>
+                    <div id="noir" class="col"></div>
+                    <div id="blanc" class="col"></div>        
+            </div>
+            <div class="row">
+                <div id="noir" class="col"> </div>
+                <div id="blanc" class="col-3"></div>
+                <div id="orange" class="col"></div>
+                <div id="jaune" class="col"></div>
+                <div id="orange" class="col"></div>
+                <div id="blanc" class="col-3"></div>
+                <div id="noir" class="col"></div>
+                <div id="blanc" class="col"></div>
+            </div>
+            <div class="row">
+                    <div id="noir" class="col"></div> 
+                    <div id="blanc" class="col-2"></div>
+                    <div id="orange" class="col"></div>
+                    <div id="jaune" class="col"></div>
+                    <div id="noir" class="col"></div>
+                    <div id="jaune" class="col"></div>
+                    <div id="orange" class="col"></div>
+                    <div id="blanc" class="col-2"></div>
+                    <div id="noir" class="col"></div>
+                    <div id="blanc" class="col"></div>
+                </div>
+                <div class="row">
+                        <div id="noir" class="col-2"> </div>
+                        <div id="orange"  class="col-2"></div>
+                        <div id="jaune" class="col"></div>
+                        <div id="noir" class="col"></div>
+                        <div id="jaune" class="col"></div>
+                        <div id="orange" class="col-2"></div>
+                        <div id="noir" class="col-2"></div>
+                        <div id="blanc" class="col"></div>
+                    </div>
+                    <div class="row">
+                            <div id="noir" class="col-2"></div> 
+                            <div id="blanc"  class="col"></div>
+                            <div id="orange" class="col"></div>
+                            <div id="jaune"  class="col"></div>
+                            <div id="noir" class="col"></div>
+                            <div id="jaune" class="col"></div>
+                            <div id="orange" class="col"></div>
+                            <div id="blanc" class="col"></div>
+                            <div id="noir" class="col-2"></div>
+                            <div id="blanc" class="col"></div>
+                    </div>
+                    <div class="row">
+                        <div id="noir" class="col-3"></div>
+                        <div id="blanc" class="col"></div>
+                        <div id="orange" class="col"></div>
+                        <div id="jaune" class="col"></div>
+                        <div id="orange" class="col"></div>
+                        <div id="blanc" class="col"></div>
+                        <div id="noir" class="col-3"></div>
+                        <div id="blanc" class="col"></div>
+                    </div>
+                    <div class="row">
+                            <div id="blanc" class="col"></div>
+                            <div id="noir" class="col-3"></div>
+                            <div id="blanc" class="col-3"></div>
+                            <div id="noir" class="col-3"></div>
+                            <div id="blanc" class="col-2"></div>
+                    </div>
+                    <div class="row">
+                            <div id="blanc" class="col-2"></div>
+                            <div id="noir" class="col-7"></div>
+                            <div id="blanc" class="col-3"></div>
+                    </div>
+                    <div class="row">
+                            <div id="blanc" class="col-3"></div>
+                            <div id="noir" class="col-5"></div>
+                            <div id="blanc" class="col-4"></div>
+                    </div>
+                    <div class="row">
+                            <div id="blanc" class="col-4"></div>
+                            <div id="noir" class="col-3"></div>
+                            <div id="blanc" class="col-5"></div>
+                    </div>
+                    <div class="row">
+                            <div id="blanc" class="col-4"></div>
+                            <div id="noir" class="col-3"></div>
+                            <div id="blanc" class="col-5"></div>
+                    </div>
+    </div>
+</body>
+</html>
+
+
+#blanc { background-color: white;
+         padding:0;
+         }
+#orange { background-color: orange;
+          padding:0
+        }
+#jaune { background-color: yellow;
+         padding: 0;
+        }
+#noir { background-color: black;
+        padding: 0;
+        padding-top: 8.34%;
+    }
+
+
